@@ -24,10 +24,11 @@ Explica cómo esta mejora beneficiaría al proyecto, al usuario o al flujo de tr
 **Ejemplos o referencias**
 Incluye capturas, diagramas, enlaces o cualquier material que ayude a ilustrar la propuesta.
 
-**Entorno (si aplica)**
-- Sistema operativo: [e.g. Windows, macOS]
-- Navegador o entorno: [e.g. Chrome, CLI, API]
-- Versión del software: [e.g. 22]
+**Entorno (si aplica):**
+
+- Sistema operativo: _e.g. Windows, macOS_
+- Navegador o entorno: _e.g. Chrome, CLI, API_
+- Versión del software: _e.g. 22_
 
 **Información adicional**
 Agrega cualquier otro contexto relevante para comprender mejor la sugerencia.
