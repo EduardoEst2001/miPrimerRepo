@@ -1,2 +1,2 @@
 ﻿
-Console.WriteLine("Hello, Platzi!");
+Console.WriteLine("Hola desde mi proyecto .NET");
